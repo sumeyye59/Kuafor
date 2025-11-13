@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\desktop\\kuafor\\kuafor\\kuafor\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\desktop\\kuafor\\kuafor\\kuafor\\formadminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formadminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\desktop\\kuafor\\kuafor\\kuafor\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\desktop\\kuafor\\kuafor\\kuafor\\formcalisanpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formcalisanpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\desktop\\kuafor\\kuafor\\kuafor\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\desktop\\kuafor\\kuafor\\kuafor\\formkayit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formkayit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\desktop\\kuafor\\kuafor\\kuafor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\desktop\\kuafor\\kuafor\\kuafor\\formkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\formkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\desktop\\kuafor\\kuafor\\kuafor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAdminPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormAdminPanel.Designer.cs",
+              "RelativeDocumentMoniker": "kuafor\\FormAdminPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormAdminPanel.Designer.cs",
+              "RelativeToolTip": "kuafor\\FormAdminPanel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:10:02.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCalisanPanel.cs",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormCalisanPanel.cs",
+              "RelativeDocumentMoniker": "kuafor\\FormCalisanPanel.cs",
+              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormCalisanPanel.cs",
+              "RelativeToolTip": "kuafor\\FormCalisanPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:42:00.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "kuafor\\FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormLogin.Designer.cs",
+              "RelativeToolTip": "kuafor\\FormLogin.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:47:45.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormLogin.cs",
+              "RelativeDocumentMoniker": "kuafor\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormLogin.cs",
+              "RelativeToolTip": "kuafor\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:47:44.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormAdminPanel.cs",
+              "RelativeDocumentMoniker": "kuafor\\FormAdminPanel.cs",
+              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormAdminPanel.cs",
+              "RelativeToolTip": "kuafor\\FormAdminPanel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAD4vx8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:47:44.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormKayit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormKayit.Designer.cs",
+              "RelativeDocumentMoniker": "kuafor\\FormKayit.Designer.cs",
+              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormKayit.Designer.cs",
+              "RelativeToolTip": "kuafor\\FormKayit.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:47:45.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\Program.cs",
+              "RelativeDocumentMoniker": "kuafor\\Program.cs",
+              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\Program.cs",
+              "RelativeToolTip": "kuafor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:47:45.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormKayit.cs",
+              "RelativeDocumentMoniker": "kuafor\\FormKayit.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\kuafor\\kuafor\\FormKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\Asus\\source\\repos\\kuafor\\kuafor\\FormKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-12T10:47:45.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormKayit.cs",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormKayit.cs",
+              "RelativeDocumentMoniker": "kuafor\\FormKayit.cs",
+              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\FormKayit.cs",
+              "RelativeToolTip": "kuafor\\FormKayit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:47:45.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\Form1.cs",
+              "RelativeDocumentMoniker": "kuafor\\Form1.cs",
+              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\Form1.cs",
+              "RelativeToolTip": "kuafor\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:47:45.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
