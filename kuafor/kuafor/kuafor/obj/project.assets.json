@@ -3114,11 +3114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\kuafor.csproj",
+      "projectUniqueName": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\kuafor.csproj",
       "projectName": "kuafor",
-      "projectPath": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\kuafor.csproj",
+      "projectPath": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\kuafor.csproj",
       "packagesPath": "C:\\Users\\SUMEYYE YASAR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\obj\\",
+      "outputPath": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

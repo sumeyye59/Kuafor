@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8IIe7K0sa1U=",
+  "dgSpecHash": "f4RqHlIXCCs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SUMEYYE YASAR\\Desktop\\kuafor\\kuafor\\kuafor\\kuafor.csproj",
+  "projectFilePath": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\kuafor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SUMEYYE YASAR\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\SUMEYYE YASAR\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
