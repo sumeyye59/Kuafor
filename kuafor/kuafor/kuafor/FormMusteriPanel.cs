@@ -42,7 +42,8 @@ namespace kuafor
 
                 foreach (var r in randevular)
                 {
-                    lstRandevular.Items.Add($"{r.Tarih} - {r.HizmetAdi}");
+                    lstRandevular.Items.Add($"{r.Baslangic:dd.MM.yyyy HH:mm} - {r.Islem.Ad}");
+
                 }
             }
         }
