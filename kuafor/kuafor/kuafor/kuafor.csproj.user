@@ -19,5 +19,8 @@
     <Compile Update="FormMusteriPanel.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FormRandevuOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
