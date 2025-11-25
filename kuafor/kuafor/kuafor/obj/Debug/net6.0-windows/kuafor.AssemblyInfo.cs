@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kuafor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0d32d67f10188a728764d7735ecea55c0ea440b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cda9e70db1ff3bc566f4a9cd766b35cfcfe54ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("kuafor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kuafor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
