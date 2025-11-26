@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\documents\\github\\kuafor\\kuafor\\kuafor\\kuafor\\formcalisanpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formcalisanpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\documents\\github\\kuafor\\kuafor\\kuafor\\kuafor\\formcalisanpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formcalisanpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\documents\\github\\kuafor\\kuafor\\kuafor\\kuafor\\formrandevuolustur.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formrandevuolustur.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\documents\\github\\kuafor\\kuafor\\kuafor\\kuafor\\formrandevuolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formrandevuolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\formrandevuolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formrandevuolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\documents\\github\\kuafor\\kuafor\\kuafor\\kuafor\\formmusteripanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formmusteripanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\documents\\github\\kuafor\\kuafor\\kuafor\\kuafor\\formmusteripanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formmusteripanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\documents\\github\\kuafor\\kuafor\\kuafor\\kuafor\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|c:\\users\\sumeyye yasar\\documents\\github\\kuafor\\kuafor\\kuafor\\kuafor\\formadminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84455BBD-5EAC-4EBB-9226-7C1F15DFA427}|kuafor\\kuafor.csproj|solutionrelative:kuafor\\formadminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,89 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormCalisanPanel.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormCalisanPanel.Designer.cs",
-              "RelativeDocumentMoniker": "kuafor\\FormCalisanPanel.Designer.cs",
-              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormCalisanPanel.Designer.cs",
-              "RelativeToolTip": "kuafor\\FormCalisanPanel.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T20:10:11.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormCalisanPanel.cs",
-              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormCalisanPanel.cs",
-              "RelativeDocumentMoniker": "kuafor\\FormCalisanPanel.cs",
-              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormCalisanPanel.cs",
-              "RelativeToolTip": "kuafor\\FormCalisanPanel.cs",
-              "ViewState": "AgIAAD4BAAAAAAAAAAAUwJwBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T20:08:59.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormRandevuOlustur.cs",
-              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormRandevuOlustur.cs",
-              "RelativeDocumentMoniker": "kuafor\\FormRandevuOlustur.cs",
-              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormRandevuOlustur.cs",
-              "RelativeToolTip": "kuafor\\FormRandevuOlustur.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T20:19:30.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormRandevuOlustur.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormRandevuOlustur.Designer.cs",
-              "RelativeDocumentMoniker": "kuafor\\FormRandevuOlustur.Designer.cs",
-              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormRandevuOlustur.Designer.cs",
-              "RelativeToolTip": "kuafor\\FormRandevuOlustur.Designer.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAYwGAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T20:17:30.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormRandevuOlustur.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormRandevuOlustur.cs",
-              "RelativeDocumentMoniker": "kuafor\\FormRandevuOlustur.cs",
-              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormRandevuOlustur.cs [Tasar\u0131m]",
-              "RelativeToolTip": "kuafor\\FormRandevuOlustur.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T14:28:25.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormMusteriPanel.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormMusteriPanel.Designer.cs",
-              "RelativeDocumentMoniker": "kuafor\\FormMusteriPanel.Designer.cs",
-              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormMusteriPanel.Designer.cs",
-              "RelativeToolTip": "kuafor\\FormMusteriPanel.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T20:44:25.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "FormMusteriPanel.cs",
               "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormMusteriPanel.cs",
               "RelativeDocumentMoniker": "kuafor\\FormMusteriPanel.cs",
               "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormMusteriPanel.cs",
               "RelativeToolTip": "kuafor\\FormMusteriPanel.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T20:42:10.43Z"
+              "WhenOpened": "2025-11-26T20:17:05.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAdminPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormAdminPanel.Designer.cs",
+              "RelativeDocumentMoniker": "kuafor\\FormAdminPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormAdminPanel.Designer.cs",
+              "RelativeToolTip": "kuafor\\FormAdminPanel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:11:17.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormAdminPanel.cs",
+              "RelativeDocumentMoniker": "kuafor\\FormAdminPanel.cs",
+              "ToolTip": "C:\\Users\\SUMEYYE YASAR\\Documents\\GitHub\\Kuafor\\kuafor\\kuafor\\kuafor\\FormAdminPanel.cs",
+              "RelativeToolTip": "kuafor\\FormAdminPanel.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:11:12.302Z",
+              "EditorCaption": ""
             }
           ]
         }
