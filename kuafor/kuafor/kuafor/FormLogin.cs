@@ -1,7 +1,8 @@
-﻿using System;
+﻿using kuafor.Models;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Linq;
 using System.Windows.Forms;
-using kuafor.Models;
 
 namespace kuafor
 {
@@ -38,19 +39,48 @@ namespace kuafor
 
                 // 🔹 Rol'e göre yönlendirme
                 Form targetForm = null;
-
+                // ------------------------
+                //  ADMIN PANELİ
+                // ------------------------
                 if (kullanici is Admin)
                 {
                     targetForm = new FormAdminPanel();
                 }
                 else if (kullanici is Calisan)
                 {
-                    targetForm = new FormCalisanPanel();
+                    var calisan = db.Calisanlar
+                       .Include(c => c.Salon)
+                       .Include(c => c.Islemler)
+                       .Include(c => c.Uygunluklar)
+                       .FirstOrDefault(c => c.Id == kullanici.Id);
+
+                    if (calisan == null)
+                    {
+                        MessageBox.Show("Çalışan bilgisi yüklenemedi!");
+                        return;
+                    }
+
+                    if (calisan.Salon == null)
+                    {
+                        MessageBox.Show("Bu çalışanın bağlı olduğu salon bilgisi bulunamadı!");
+                        return;
+                    }
+
+                    targetForm = new FormCalisanPanel(calisan);
                 }
-                else if (kullanici is Musteri)
+                // ------------------------
+                //  MÜŞTERİ PANELİ 
+                // ------------------------
+                else if (kullanici is Musteri musteri)
                 {
-                    targetForm = new FormMusteriPanel();
+                    targetForm = new FormMusteriPanel(musteri);  
                 }
+
+
+
+                // ------------------------
+                //  PANELİ AÇ
+                // ------------------------
 
                 if (targetForm != null)
                 {
