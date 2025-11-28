@@ -42,6 +42,13 @@ namespace kuafor
 
                 foreach (var r in randevular)
                 {
+                    string durum = r.OnayDurumu switch
+                    {
+                        0 => "Bekliyor",
+                        1 => "Onaylandı",
+                        2 => "Reddedildi",
+                        _ => "Bilinmiyor"
+                    };
                     lstRandevular.Items.Add($"{r.Baslangic:dd.MM.yyyy HH:mm} - {r.Islem.Ad}");
 
                 }
