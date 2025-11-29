@@ -7,7 +7,7 @@
         private System.Windows.Forms.ListBox lstRandevular;
         private System.Windows.Forms.Button BtnYeniRandevu;
         private System.Windows.Forms.Button BtnCikis;
-
+        private System.Windows.Forms.Button BtnRandevuIptal; // üstte diğer buttonlarla birlikte
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -63,6 +63,18 @@
 
             this.ResumeLayout(false);
             this.PerformLayout();
+            
+
+        // InitializeComponent içinde:
+        BtnRandevuIptal = new System.Windows.Forms.Button();
+        BtnRandevuIptal.Text = "Seçili Randevuyu İptal Et";
+        BtnRandevuIptal.Font = new System.Drawing.Font("Segoe UI", 12F);
+        BtnRandevuIptal.Size = new System.Drawing.Size(200, 40);
+        BtnRandevuIptal.Location = new System.Drawing.Point(320, 300); // konumu ayarla
+        BtnRandevuIptal.Click += new System.EventHandler(this.BtnRandevuIptal_Click);
+
+           this.Controls.Add(BtnRandevuIptal);
+
         }
-    }
+}
 }

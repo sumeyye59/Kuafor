@@ -1,4 +1,6 @@
-﻿using System;
+﻿using kuafor.Models;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,7 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using kuafor.Models;
 
 namespace kuafor
 {
@@ -64,5 +65,39 @@ namespace kuafor
         {
             this.Close();
         }
+        private void BtnRandevuIptal_Click(object sender, EventArgs e)
+        {
+            if (lstRandevular.SelectedIndex == -1)
+            {
+                MessageBox.Show("Lütfen iptal etmek istediğiniz randevuyu seçin.");
+                return;
+            }
+
+            // Seçilen randevuyu al
+            var secilen = lstRandevular.SelectedItem.ToString();
+
+            using (var db = new AppDbContext())
+            {
+                // Tarih ve işlem adı bilgisine göre randevuyu buluyoruz
+                var randevu = db.Randevular
+                    .Include(r => r.Islem)
+                    .FirstOrDefault(r =>
+                        $"{r.Baslangic:dd.MM.yyyy HH:mm} - {r.Islem.Ad}" == secilen &&
+                        r.MusteriId == _aktifMusteri.Id);
+
+                if (randevu != null)
+                {
+                    db.Randevular.Remove(randevu); // Randevuyu sil
+                    db.SaveChanges();
+                    MessageBox.Show("Randevu iptal edildi.");
+                    LoadRandevular(); // listeyi yenile
+                }
+                else
+                {
+                    MessageBox.Show("Randevu bulunamadı!");
+                }
+            }
+        }
+
     }
 }
